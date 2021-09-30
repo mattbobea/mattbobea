@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattbobea
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Research
