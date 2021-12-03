@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Research
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on research
 - 📫 How to reach me ... email
 
 <!---
